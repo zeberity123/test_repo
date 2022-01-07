@@ -1,6 +1,1 @@
 # hello
-# hi
-
-# hi
-
-# hello
